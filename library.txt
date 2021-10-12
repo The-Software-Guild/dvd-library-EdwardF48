@@ -1,0 +1,4 @@
+JAWS::1975::18::Stephen::Universal::Good film
+Toy Story::1995::U::N/A::Pixar::5*
+Toy Story 2::1997::U::N/A::Pixar::5*
+Seven::1999::18::Fincher::Universal::Great Film
